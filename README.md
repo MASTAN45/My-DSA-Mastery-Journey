@@ -76,7 +76,7 @@ Stack Overflow
 
 🤝 Connect with Me
 LinkedIn: www.linkedin.com/in/mastanshaik1
-Portfolio: [yourportfolio.com](https://mukhtarhardware.my.canva.site/shaikmastanvali-softwaredeveloperportfolio)
+Portfolio: (https://mukhtarhardware.my.canva.site/shaikmastanvali-softwaredeveloperportfolio)
 Email: shaikmastanvali7670@gmail.com
 
 📝 License
